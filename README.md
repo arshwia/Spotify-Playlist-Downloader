@@ -9,3 +9,5 @@
  REDIRECT_URI=http://localhost:3000/callback
 
 Additionally, in your Spotify app settings on the website, make sure to set the Redirect URIs field to the following URL: http://localhost:3000/callback
+
+Make sure the file you create is named exactly .env — with nothing before it (a dot followed by env).
